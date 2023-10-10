@@ -1,7 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Antonio:wght@700&family=Inter:wght@400;800&family=Lora:ital,wght@0,400;0,700;1,700&family=Luckiest+Guy&family=Luxurious+Roman&family=Roboto+Slab:wght@800&family=Roboto:ital,wght@0,400;0,700;1,500;1,900&family=Romanesco&display=swap');
 @import url("components/container.css");
-@import url("components/avatar.css");
 @import url("components/button.css");
 @import url("components/banner.css");
 @import url("components/card.css");
@@ -24,6 +23,5 @@ h1, h2, h3 {
 a {
 	text-decoration: none;
 }
-</style>
 
 
